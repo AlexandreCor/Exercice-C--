@@ -1,0 +1,12 @@
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.AssemblyInfoInputs.cache
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.AssemblyInfo.cs
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.csproj.CoreCompileInputs.cache
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.exe
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.deps.json
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.runtimeconfig.json
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.runtimeconfig.dev.json
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.dll
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\bin\Debug\netcoreapp3.1\Exercice 4.pdb
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.dll
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.pdb
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 4\obj\Debug\netcoreapp3.1\Exercice 4.genruntimeconfig.cache
