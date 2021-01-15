@@ -2,3 +2,12 @@ C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\obj\Debug\netcoreapp3
 C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.AssemblyInfoInputs.cache
 C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.AssemblyInfo.cs
 C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.csproj.CoreCompileInputs.cache
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.exe
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.deps.json
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.runtimeconfig.json
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.runtimeconfig.dev.json
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.dll
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\bin\Debug\netcoreapp3.1\Exercice 3.pdb
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.dll
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.pdb
+C:\Users\LMNO022\Desktop\C# Exercice 1\Partie 1\Exercice 3\obj\Debug\netcoreapp3.1\Exercice 3.genruntimeconfig.cache
