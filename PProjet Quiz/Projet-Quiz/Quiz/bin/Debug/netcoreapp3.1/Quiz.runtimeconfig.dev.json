@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\INVERSINI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\INVERSINI\\.nuget\\packages"
+    ]
+  }
+}
